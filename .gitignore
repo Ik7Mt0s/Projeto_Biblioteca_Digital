@@ -1,1 +1,16 @@
+# Arquivos de ambiente e configuração
 .env
+*.pyc
+__pycache__/
+
+# Arquivos SQL específicos
+cmd.sql
+*.sql~
+
+# Pastas do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
