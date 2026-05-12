@@ -13,8 +13,6 @@ Desenvolver um banco de dados relacional para gerenciar uma biblioteca digital, 
 
 ## 📁 Arquivos do projeto
 
-## 📁 Arquivos do projeto
-
 | Arquivo | Descrição |
 |---------|------------|
 | `tabelas.sql` | Cria o banco `biblioteca_digital` e todas as tabelas (10 entidades) |
